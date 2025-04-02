@@ -1,5 +1,9 @@
 # Machine-Learning-for-Kyphosis-Disease-Classification
 
+[Coursera Link for Project](https://www.coursera.org/programs/data-science-elective-batch-of-2026-f30yc/projects/machine-learning-for-kyphosis-disease-classification?source=search)
+
+
+
 Theory of Kyphosis Disease
 Kyphosis is a spinal disorder characterized by an excessive outward curvature of the thoracic region of the spine, leading to a hunched or rounded upper back. It can affect individuals of all ages but is most commonly observed in adolescence or older adults.
 
